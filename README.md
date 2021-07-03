@@ -4,7 +4,7 @@ This is a simple program that takes in text, removes everything except for math 
 
 I wanted to try something fairly simple that could transition into something marginally more useful. Parsing text is always something that needs to happen with any language, so I decided I wanted to learn more about that too.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/twHvCf8bQB0)
 
 # Development Environment
 
